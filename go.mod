@@ -1,3 +1,3 @@
-module github.com/sachinkumawatcoindcx/nummanip
+module github.com/sachinkumawatcoindcx/nummanip/v2
 
 go 1.20
